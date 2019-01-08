@@ -1,6 +1,6 @@
 let app = getApp();
 //替换成开发者后台设置的安全域名
-let domain = "http://127.0.0.1:8080";
+let domain = "http://kobepeng.vaiwan.com";
 //获取用户信息的url
 let url = domain + "/login";
 //let url = "http://abcde.vaiwan.com";
