@@ -1,6 +1,8 @@
 <view>
+   <block></block>
     <button type="primary" size="" onTap=""> 自动免登并获取用户信息 </button>
     <view class="row">CorpId:{{corpId}}</view>
     <view class="row">AuthCode:{{authCode}}</view>
     <view class="row">userId:{{userId}}</view>
+    <video width="100%" src="http://pkzugksnt.bkt.clouddn.com/loginad.mp4" preload autoplay muted></video>
 </view>
